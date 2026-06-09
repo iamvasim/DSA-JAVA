@@ -37,35 +37,46 @@ This repository serves as my coding journal where I consistently practice and im
 DSA/
 │
 ├── Arrays/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
+│   ├── #1 : Two Sum.java
+│   ├── #53 : Maximum Subarray.java
+│   └── #121 : Best Time to Buy and Sell Stock.java
 │
 ├── Strings/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
+│   ├── #125 : Valid Palindrome.java
+│   └── #14 : Longest Common Prefix.java
 │
 ├── Hashing/
+│   ├── #242 : Valid Anagram.java
+│   └── #49 : Group Anagrams.java
 │
 ├── Linked List/
+│   ├── #206 : Reverse Linked List.java
+│   └── #141 : Linked List Cycle.java
 │
 ├── Stack/
+│   ├── #20 : Valid Parentheses.java
+│   └── #155 : Min Stack.java
 │
 ├── Queue/
+│   └── #232 : Implement Queue using Stacks.java
 │
 ├── Recursion/
 │
 ├── Backtracking/
+│   ├── #46 : Permutations.java
+│   └── #78 : Subsets.java
 │
 ├── Binary Search/
+│   ├── #704 : Binary Search.java
+│   ├── #35 : Search Insert Position.java
+│   └── #33 : Search in Rotated Sorted Array.java
 │
 ├── Sliding Window/
 │
 ├── Two Pointers/
 │
 ├── Trees/
-│
+│   
 ├── Binary Search Trees/
 │
 ├── Heap/
@@ -75,14 +86,13 @@ DSA/
 ├── Graph/
 │
 ├── Dynamic Programming/
-│
+│   
 ├── Bit Manipulation/
 │
 ├── Tries/
-
-
+│
+└── README.md
 ```
-
 ---
 
 # 📚 Topics Covered
