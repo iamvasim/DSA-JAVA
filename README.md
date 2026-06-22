@@ -290,10 +290,10 @@ Binary Search/
 | Linked List | ⏳ |
 | Stack | ⏳ |
 | Queue | ⏳ |
-| Binary Search | ⏳ |
+| Binary Search | ✅ |
 | Recursion | ⏳ |
 | Trees | ⏳ |
-| Graphs | ⏳ |
+| Graphs | ✅ |
 | Dynamic Programming | ⏳ |
 | Greedy | ⏳ |
 | Heap | ⏳ |
