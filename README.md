@@ -285,9 +285,9 @@ Binary Search/
 
 | Category | Progress |
 |-----------|-----------|
-| Arrays | ⏳ |
+| Arrays | ✅ |
 | Strings | ⏳ |
-| Linked List | ⏳ |
+| Linked List | ✅ |
 | Stack | ⏳ |
 | Queue | ⏳ |
 | Binary Search | ✅ |
