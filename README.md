@@ -286,12 +286,12 @@ Binary Search/
 | Category | Progress |
 |-----------|-----------|
 | Arrays | ✅ |
-| Strings | ⏳ |
+| Strings | ✅ |
 | Linked List | ✅ |
 | Stack | ⏳ |
 | Queue | ⏳ |
 | Binary Search | ✅ |
-| Recursion | ⏳ |
+| Recursion | ✅ |
 | Trees | ⏳ |
 | Graphs | ✅ |
 | Dynamic Programming | ⏳ |
