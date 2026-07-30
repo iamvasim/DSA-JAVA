@@ -288,6 +288,7 @@ Binary Search/
 | Arrays | ✅ |
 | Strings | ✅ |
 | Linked List | ✅ |
+| Sliding Window | ✅ |
 | Stack | ⏳ |
 | Queue | ⏳ |
 | Binary Search | ✅ |
