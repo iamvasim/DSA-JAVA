@@ -289,11 +289,11 @@ Binary Search/
 | Strings | ✅ |
 | Linked List | ✅ |
 | Sliding Window | ✅ |
-| Stack | ⏳ |
-| Queue | ⏳ |
+| Stack | ✅ |
+| Queue | ✅ |
 | Binary Search | ✅ |
 | Recursion | ✅ |
-| Trees | ⏳ |
+| Trees | ✅ |
 | Graphs | ✅ |
 | Dynamic Programming | ⏳ |
 | Greedy | ⏳ |
